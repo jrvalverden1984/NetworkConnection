@@ -1,2 +1,3 @@
-# Cepheus
-Cepheus Systems
+# Network Connection
+
+Network Connection Library
