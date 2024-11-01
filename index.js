@@ -60,9 +60,9 @@ async function descargarImagenes(urls) {
 // Lista de URLs a descargar
 const listaDeUrls = [
 'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/102229P-1.jpg',
-'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/23985P-1.jpg'//,
-// 'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/63658P-1.jpg',
-// 'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/97543P-1.jpg',
+'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/23985P-1.jpg',
+'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/63658P-1.jpg',
+'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/97543P-1.jpg'//,
 // 'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/105227P-1.jpg',
 // 'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/95962P-1.jpg',
 // 'https://www.pharmacys.com.ec/wcsstore/DF_CatalogAsset/images/catalog/producto/fullimage/6441P-1.jpg',
